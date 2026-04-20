@@ -1,4 +1,5 @@
 Sangeetha Srikanth
+
 Data Engineer | BI Analyst | SRE Professional | 12+ Years of Experience in IT & Healthcare Systems
 
 I specialize in transforming complex, fragmented datasets into streamlined pipelines and high-impact executive dashboards. My background in Site Reliability Engineering (SRE) ensures that the data solutions I build are not just insightful, but robust and scalable. I adopt Proactive approach and implement Six Sigma principles for process improvements.
@@ -20,9 +21,13 @@ I specialize in transforming complex, fragmented datasets into streamlined pipel
 🛠️ Technical Toolbox
 
 Data Engineering  : Databricks, Apache Spark, AWS Glue, Python, SQL 
+
 BI & Visualization : Power BI, Power Apps, Power Automate, Excel, SSIS
+
 Cloud & Ops : AWS, Azure Databricks, SRE / Site Reliability, Agile 
+
 Specializations : Healthcare Domain, Clinical Data, Six Sigma Green Belt 
+
 
 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/sangeetha-srikanth15
