@@ -15,7 +15,7 @@ I specialize in transforming complex, fragmented datasets into streamlined pipel
 * Impact: Developed a risk-identification system for 30-day readmissions, transitioning care from reactive to proactive for chronic disease management.
 
 💰 [AWS Revenue Performance Pipeline] [View Interactive Revenue Dashboard](https://app.powerbi.com/links/g3_4wzRrcZ?ctid=69b02dc9-af66-4cf5-8a54-ec5c5ca599c9&pbi_source=linkShare)
-* Technology:  AWS (S3, Glue, Athena), Python.
+* Technology:  AWS (S3, Glue, Athena), Python, Power BI
 * Impact: Built a scalable cloud architecture for retail sales forecasting and regional performance tracking.
 
 🛠️ Technical Toolbox
