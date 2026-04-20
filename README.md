@@ -6,17 +6,17 @@ I specialize in transforming complex, fragmented datasets into streamlined pipel
 
 🚀 Featured Projects
 
-🧊 [Databricks Emissions Analytics]
+🧊 Databricks Emissions Analytics
 
 * Technology: Azure Databricks, PySpark, Spark SQL, AI/BI Visualization
 * Impact: Engineered an end-to-end pipeline to analyze US county-level emissions, identifying high-expenditure cohorts and optimizing climate data transparency.
 
-🏥 [Healthcare Operational Reliability Framework]
+🏥 Healthcare Operational Reliability Framework
 
 * Technology:  Python, SQL Server, Power BI.
 * Impact: Developed a risk-identification system for 30-day readmissions, transitioning care from reactive to proactive for chronic disease management.
 
-💰 [AWS Revenue Performance Pipeline]
+💰 AWS Revenue Performance Pipeline
 
 * Technology:  AWS (S3, Glue, Athena), Python, Power BI
 * Impact: Built a scalable cloud architecture for retail sales forecasting and regional performance tracking.
