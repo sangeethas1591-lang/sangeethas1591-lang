@@ -4,7 +4,7 @@ Data Engineer | BI Analyst | SRE Professional | 12+ Years of Experience in IT & 
 
 I specialize in transforming complex, fragmented datasets into streamlined pipelines and high-impact executive dashboards. My background in Site Reliability Engineering (SRE) ensures that the data solutions I build are not just insightful, but robust and scalable. I adopt Proactive approach and implement Six Sigma principles for process improvements.
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 🧊 [Databricks Emissions Analytics](https://dbc-55801609-f573.cloud.databricks.com/dashboardsv3/01f1380419df1180af99df8e90e763d5/published?o=7474649120308763)
 
