@@ -25,7 +25,7 @@ I specialize in transforming complex, fragmented datasets into streamlined pipel
 
 Data Engineering  : Databricks, Apache Spark, AWS Glue, Python, SQL 
 
-BI & Visualization : Power BI, Power Apps, Power Automate, Excel, SSIS
+BI & Visualization : Power BI, Power Apps, Power Automate, Excel, SSIS, Tableau
 
 Cloud & Ops : AWS, Azure Databricks, SRE / Site Reliability, Agile 
 
