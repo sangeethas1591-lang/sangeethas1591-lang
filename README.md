@@ -1,6 +1,6 @@
 Hello, I am Sangeetha Srikanth
 
-Data Engineer | BI Analyst | SRE Professional | 12+ Years of Experience in IT & Healthcare Systems
+Power BI Developer | BI Analyst | SRE Professional | 12+ Years of Experience in IT & Healthcare Systems
 
 I specialize in transforming complex, fragmented datasets into streamlined pipelines and high-impact executive dashboards. My background in Site Reliability Engineering (SRE) ensures that the data solutions I build are not just insightful, but robust and scalable. I adopt Proactive approach and implement Six Sigma principles for process improvements.
 
