@@ -16,6 +16,11 @@ I specialize in transforming complex, fragmented datasets into streamlined pipel
 * Technology:  Python, SQL Server, Power BI.
 * Impact: Developed a risk-identification system for 30-day readmissions, transitioning care from reactive to proactive for chronic disease management.
 
+💰 Aerospace Technical Publication Operational Excellence
+
+* Technology: SQL Server, Power BI.
+* Impact: Developed a visualisation framework to monitor the end-to-end lifecycle of Technical Publications (Data Modules), focusing on S1000D standards, AOG (Aircraft On Ground) priorities, and Global SLA Compliance.
+
 💰 AWS Revenue Performance Pipeline
 
 * Technology:  AWS (S3, Glue, Athena), Python, Power BI
